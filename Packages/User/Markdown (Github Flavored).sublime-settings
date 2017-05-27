@@ -1,0 +1,11 @@
+{
+	"extensions":
+	[
+		"markdown",
+		"mdown",
+		"md",
+		"md"
+	],
+    "trim_trailing_white_space_on_save": true,
+    "color_scheme": "Packages/knockdown/Knockdown Custom.tmTheme",
+}

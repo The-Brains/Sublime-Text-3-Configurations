@@ -1,0 +1,7 @@
+[
+    { "keys": ["option+shift+s"], "command": "sublimelinter_goto_error", "args": {"direction": "next"} },
+    { "keys": ["option+shift+w"], "command": "sublimelinter_goto_error", "args": {"direction": "previous"} },
+    { "keys": ["super+shift+v"], "command": "paste" },
+    { "keys": ["super+v"], "command": "paste_and_indent" },
+        { "keys": ["super+shift+o"], "command": "side_bar_folders_quick_switch" },
+]

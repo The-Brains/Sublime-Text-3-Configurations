@@ -1,0 +1,32 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/leo/Thumbtack/website/thumbprint/components/search-form"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/leo/Thumbtack/website/thumbprint"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/leo/Thumbtack/website/migrations"
+		},
+		{
+			"path": "/Users/leo/Thumbtack/website"
+		},
+		{
+			"path": "/Users/leo/Thumbtack/scala/spear/src/main/resources/com/thumbtack/spear/ipinfo"
+		},
+		{
+			"path": "/Users/leo/Thumbtack/scala"
+		},
+		{
+			"path": "/Users/leo/Thumbtack/go/hercule"
+		},
+		{
+			"path": "/Users/leo/Thumbtack/go"
+		}
+	]
+}

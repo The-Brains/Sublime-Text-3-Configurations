@@ -1,0 +1,7 @@
+{
+    "high_visibility_enabled_by_default": false,
+    "content_highlight_bar": true,
+    "show_in_minimap": "solid",
+    "search_threshold": 20000,
+    "ignore_threshold": true,
+}

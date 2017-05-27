@@ -1,0 +1,44 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Auto Semi-Colon",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Coffee Color Scheme",
+		"Console Wrap",
+		"CSS Extended Completions",
+		"GitGutter",
+		"GoSublime",
+		"HTML5",
+		"jQuery",
+		"jQueryDocs",
+		"JSX",
+		"knockdown",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Materialize-Appbar",
+		"Monokai - Spacegray",
+		"Origami",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP-Twig",
+		"PhpDoc",
+		"PlainTasks",
+		"Pretty JSON",
+		"Sass",
+		"SCSS",
+		"Semicolon",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-phpcs",
+		"SublimeSBT",
+		"Terminal",
+		"WakaTime",
+		"Xdebug Client"
+	]
+}

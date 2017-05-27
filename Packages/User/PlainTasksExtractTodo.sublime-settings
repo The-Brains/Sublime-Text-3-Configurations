@@ -1,7 +1,0 @@
-{
-    "folder_exclude_patterns": [
-        "/Users/leo/Thumbtack/**.*",
-        "/Users/leo/VirtualIdeaBox/VirtualIdeaBox/VIBE_Node/node_modules/**.*",
-        "/Users/leo/VirtualIdeaBox/VirtualIdeaBox/VIBE_Node/coverage/**.*",
-    ]
-}
